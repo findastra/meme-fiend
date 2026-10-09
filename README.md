@@ -2,6 +2,8 @@
 
 *A pet app by Astra.*
 
+![Meme Fiend](art/meme-fiend-20261009.png)
+
 Meme Fiend is a meme saver and maker. This repository is a placeholder: the app itself is not built yet.
 
 ## Status
