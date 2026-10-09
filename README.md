@@ -12,3 +12,13 @@ Placeholder. Nothing is implemented.
 
 - Save memes you find, with tags and notes, stored locally on your PC.
 - Make new memes from images with top and bottom text.
+
+## How to run it
+
+Open `index.html` in any modern browser. It shows a placeholder page and nothing else.
+
+## Limits
+
+- Placeholder only: no behaviour, data or storage yet.
+- No pet art yet. `sprite.json` is an empty stub.
+- Not in the Cage yet. Registering it is [card 008](https://github.com/findastra/astras-pet-apps/blob/main/handoffs/008-farmer-register-new-placeholders.md) for the Friendly Farmer.
