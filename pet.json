@@ -1,0 +1,11 @@
+{
+  "pet": "Meme Fiend",
+  "kind": "pet-app",
+  "owner": "Astra",
+  "job": "Meme saver and maker. Your memes stay on your PC.",
+  "status": "hatching",
+  "visibility": "private",
+  "implementation_status": "Placeholder. Nothing is built yet.",
+  "cage": { "topic": "pet-app", "home": "README.md", "repository": "https://github.com/findastra/astras-pet-apps" },
+  "updated": "2026-10-09"
+}
