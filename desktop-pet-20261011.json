@@ -4,19 +4,20 @@
   "assistant": "OpenAI Codex (GPT-6)",
   "date": "2026-10-11",
   "status": "draft",
-  "desktop_scale": 1,
+  "desktop_scale": 0.8,
   "sparkles": false,
   "renderer": "astras-pet-apps/scripts/desktop-pets-20261011.cs",
   "art_files": [
-    "desktop-art/meme-fiend/idle-20261011.png",
+    "desktop-art/meme-fiend/alarmed-20261011.png",
     "desktop-art/meme-fiend/blink-20261011.png",
-    "desktop-art/meme-fiend/happy-20261011.png",
     "desktop-art/meme-fiend/curious-20261011.png",
-    "desktop-art/meme-fiend/worried-20261011.png",
+    "desktop-art/meme-fiend/happy-20261011.png",
+    "desktop-art/meme-fiend/idle-20261011.png",
     "desktop-art/meme-fiend/sad-20261011.png",
     "desktop-art/meme-fiend/sick-20261011.png",
-    "desktop-art/meme-fiend/alarmed-20261011.png",
-    "desktop-art/meme-fiend/sleep-20261011.png"
+    "desktop-art/meme-fiend/sleep-20261011.png",
+    "desktop-art/meme-fiend/worried-20261011.png"
   ],
-  "notes": "Purple fox."
+  "notes": "Smaller cute purple fox with mischievous half-lidded eyes and smirk.",
+  "source_sheet": "desktop-art/meme-fiend/sheet-20261011.png"
 }
