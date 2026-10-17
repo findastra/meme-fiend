@@ -3,7 +3,7 @@
   "kind": "pet-app",
   "owner": "Astra",
   "sprite": "sprite.json",
-  "job": "Meme saver and maker. Your memes stay on your PC.",
+  "job": "Archives your favourite memes, especially from Discord, and will run a tool for making your own (not built yet). Your memes stay on your PC.",
   "runs_on": "Any modern browser (index.html).",
   "entry": "index.html",
   "status": "hatching",
@@ -11,11 +11,16 @@
   "cage": {
     "topic": "pet-app",
     "home": "README.md",
-    "repository": "https://github.com/findastra/astras-pet-apps"
+    "repository": "https://github.com/findastra/astras-pet-os"
   },
   "built_with": "Claude Opus 5.5 (claude-opus-5-5), 2026-10-09; OpenAI Codex (GPT-6), 2026-10-11",
   "implementation_status": "Placeholder. Nothing is built yet.",
   "updated": "2026-10-09",
   "desktop_pet": "desktop-pet-20261011.json",
-  "desktop_art_built_with": "OpenAI Codex (GPT-6), built-in imagegen and native renderer, 2026-10-11"
+  "desktop_art_built_with": "OpenAI Codex (GPT-6), built-in imagegen and native renderer, 2026-10-11",
+  "audit": {
+    "cadence": "weekly",
+    "subject": "your saved memes (on your PC only)",
+    "needs": "a meme folder chosen"
+  }
 }
